@@ -1,0 +1,71 @@
+</head>
+<body>
+    <div class="navbar">
+        <div class="left-icons">
+            <img src="pictures/logo.jpeg"/>
+            <a href ="#"><img src="pictures/profile_14026766.png" /></a> <!--link to the profile page-->
+        </div>
+        <div class="heading">GREEN APP</div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+        </div>
+    </div>
+
+    <div class="sideMenu">
+        <a href="#" class="active">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Profile</a>
+    </div>
+
+    <!--for the main content-->
+    <div class="Main">
+        <img src="pictures/picture.jpeg"  width="1025"/>
+        <h2 style="color:navajowhite ; text-align:center">WHAT IS RECYCLING</h2>
+        <p style="color: navajowhite">
+            Gathering, analyzing, and reusing items that would otherwise be thrown away as garbage is the process of recycling.
+           It is essential for managing the planet's limited resources since it lessens the need for extracting raw materials,
+           conserves energy, and lowers greenhouse gas emissions. We can reduce the amount of waste that is transported to 
+           landfills and incinerators by recycling things like paper, plastic, glass, and metals. 
+           This would lessen environmental damage and promote a more sustainable and environmentally friendly economy. 
+           Recycling fosters employment growth and green technology innovation in addition to assisting in the safeguarding 
+           of environments and biodiversity.
+        </p>
+
+
+         <!--this is for the pictures-->
+    <div class="image-container">
+        <img src="pictures/battery recy.jpg">
+        <div class="info">
+            <p>This is some information about the first image.</p>
+        </div>
+    </div>
+
+    <div class="image-container">
+        <img src="pictures/glass recy.jpg" />
+        <div class="info">
+            <p>This is some information about the second image.</p>
+        </div>
+    </div>
+
+    <div class="image-container">
+        <img src="pictures/paper recy.jpg">
+        <div class="info">
+            <p>This is some information about the third image.</p>
+        </div>
+    </div>
+
+    <div class="image-container">
+        <img src="pictures/plastic.jpg">
+        <div class="info">
+            <p>This is some information about the fourth image.</p>
+        </div>
+
+    </div>
+        </div>
+
+   
+
+
+    
+</body>
+</html>
